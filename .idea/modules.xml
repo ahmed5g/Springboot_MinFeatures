@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ComplaintSystem/ComplaintSystem.iml" filepath="$PROJECT_DIR$/ComplaintSystem/ComplaintSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spring Boot project Complaint feature.iml" filepath="$PROJECT_DIR$/.idea/Spring Boot project Complaint feature.iml" />
+    </modules>
+  </component>
+</project>
