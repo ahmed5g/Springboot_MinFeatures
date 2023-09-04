@@ -11,7 +11,7 @@ import java.util.List;
 
 @Api(value = "Complaint Controller", tags = { "Complaint" })
 @Controller
-@RequestMapping("/complaints")
+@RequestMapping("/api/complaints")
 public class ComplaintController {
 
     @Autowired
